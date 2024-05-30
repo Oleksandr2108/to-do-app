@@ -1,4 +1,7 @@
-Welcome to the React TODO app with API repository! 🚀
+# Task Tracker
+
+Welcome to the React Task Tracker repository! 🚀
+Check out the live demo of the React Task Tracker app [DEMO](https://Oleksandr2108.github.io/to-do-app/).
 
 ## Table of Contents
 
@@ -6,28 +9,28 @@ Welcome to the React TODO app with API repository! 🚀
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
 - [Scripts](#scripts)
 - [Contributing](#contributing)
 
 ## Introduction
 
-This GitHub repository showcases a resilient TODO application developed using React and TypeScript, seamlessly incorporating API integration. Whether you're structuring tasks or overseeing your daily agenda, this application offers a smooth experience with a contemporary user interface.
+This GitHub repository showcases a resilient Task Tracker application developed using React and TypeScript, seamlessly incorporating API integration. Whether you're structuring tasks or overseeing your daily agenda, this application offers a smooth experience with a contemporary user interface.
+
 
 ## Technologies
 
-The TODO app is powered by the following technologies:
+The Task Tracker app is powered by the following technologies:
 
-- React: A JavaScript library for building user interfaces.
-- TypeScript: A superset of JavaScript that adds static types to the language.
-- Bulma: A modern CSS framework based on Flexbox for styling.
-- Font Awesome: Provides scalable vector icons that can be customized with the power of CSS.
-- React Transition Group: Enables animations as elements enter or exit the DOM.
-- Classnames: A utility for conditionally joining class names together.
+- **React:** A JavaScript library for building user interfaces.
+- **TypeScript:** A superset of JavaScript that adds static types to the language.
+- **Bulma:** A modern CSS framework based on Flexbox for styling.
+- **Font Awesome:** Provides scalable vector icons that can be customized with the power of CSS.
+- **React Transition Group:** Enables animations as elements enter or exit the DOM.
+- **Classnames:** A utility for conditionally joining class names together.
 
 ## Installation
 
-To set up the React TODO app locally, follow these steps:
+To set up the React Task Tracker app locally, follow these steps:
 
 1. Clone this repository
 2. Navigate to the project directory
@@ -36,11 +39,7 @@ To set up the React TODO app locally, follow these steps:
 
 ## Usage
 
-The app allows you to add, edit, and delete tasks, providing a seamless user experience. Interact with the intuitive interface to manage your TODO list efficiently.
-
-## Demo
-
-Check out the live demo of the React TODO app [here](https://Oleksandr2108.github.io/to-do-app/).
+The app allows you to add, edit, and delete tasks, providing a seamless user experience. Interact with the intuitive interface to manage your Task Tracker list efficiently.
 
 ## Scripts
 
@@ -56,14 +55,26 @@ Check out the live demo of the React TODO app [here](https://Oleksandr2108.githu
 
 ## Contributing
 
-Contributions are welcome! To contribute to the React TODO app, follow these steps:
+Contributions are welcome! To contribute to the React Task Tracker app, follow these steps:
 
-1. Fork the repository.
-2. Create a new branch: git checkout -b feature/your-feature.
-3. Make your changes and commit them: git commit -m 'Add your feature'.
-4. Push to the branch: git push origin feature/your-feature.
-5. Submit a pull request.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Oleksandr2108/to-do-app.git
+   
+2. Navigate to the project directory:
+   ```bash
+   cd to-do-app
+
+3. Install the dependencies:
+   ```bash
+   npm install
+
+4. Start the development server:
+   ```bash
+   npm start
+
+5. Open your browser and navigate to http://localhost:3000 to view the project locally.  
 
 ***
 
-Thank you for checking out the React TODO app with API integration! If you have any questions or feedback, feel free to reach out. Wishing you an organized and productive experience! 📅
+Thank you for checking out the React Task Tracker app with API integration! If you have any questions or feedback, feel free to reach out. Wishing you an organized and productive experience! 📅
